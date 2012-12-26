@@ -7,7 +7,7 @@ import java.util.Date;
 import java.util.GregorianCalendar;
 import java.util.Scanner;
 
-public class Employee implements Serializable {
+public class Employee extends SerialClone {
     private  String name;
     private  double salary;
     private Date hireDay;
