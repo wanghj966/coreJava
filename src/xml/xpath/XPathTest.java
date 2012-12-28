@@ -1,4 +1,4 @@
-package xpath;
+package xml.xpath;
 import javax.swing.*;
 import java.awt.*;
 public class XPathTest {

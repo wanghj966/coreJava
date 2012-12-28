@@ -1,4 +1,4 @@
-package xpath;
+package xml.xpath;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.NodeList;
